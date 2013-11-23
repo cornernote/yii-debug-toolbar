@@ -231,7 +231,9 @@ line-height:50px;
     text-decoration:none;
 }
 
-
+#yii-debug-toolbar label {
+    display: inline;
+}
 
 /* tabs */
 
